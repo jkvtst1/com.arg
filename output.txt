@@ -1,0 +1,5 @@
+Running on headless chrome
+Logged in
+Exception caught
+Liked profile: Priyanka , 31, Bangalore
+Liked profile: Anushya , 26, Bangalore
